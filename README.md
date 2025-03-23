@@ -76,7 +76,7 @@
 # 📥 How to Use This Project
 
 💻 Follow these steps to explore this project on your local system:
-1️⃣ Clone the repository: git clone https://github.com/yashverma8290/healthcare-data-analysis.git
+1️⃣ Clone the repository: git clone hhttps://github.com/yashverma8290/Healthcare_Data_Analysis/tree/main
 2️⃣ Install the required libraries: pip install pandas numpy matplotlib seaborn
 3️⃣ Open the Jupyter Notebook: jupyter notebook Healthcare_data_analysis_Project.ipynb
 4️⃣ Run the notebook cells step by step to visualize and analyze the dataset.
