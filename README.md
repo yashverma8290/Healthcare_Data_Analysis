@@ -17,7 +17,7 @@
 ✅ Insurance & Payment: Coverage details that may impact overall patient billing and financial burden.
 
 
-##########################################################################🔍 Steps Performed in This Project ##################################################################
+# ---------🔍 Steps Performed in This Project -----------
 
 
 📌 1️⃣ Data Cleaning & Preprocessing
@@ -59,7 +59,7 @@
 💉 Common medical conditions: The most frequent diagnoses were related to cardiovascular and respiratory diseases.
 🚑 Hospital readmission rates: Identified trends in patient readmissions, which can help improve hospital efficiency.
 
-############################################################################# 🛠 Technologies & Tools Used  ##################################################################################
+# -----------🛠 Technologies & Tools Used -------------- 
 
 # 🖥 Python Libraries:
 
